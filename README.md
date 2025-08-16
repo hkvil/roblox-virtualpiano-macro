@@ -47,7 +47,6 @@ Make VirtualPiano’s **Autoplay** drive Roblox by mirroring keys from the web p
   
 4. Click **Autoplay** on the site, then **switch to Roblox** so it’s focused.
 
-> Tip: If you added the optional `/focus` endpoint + Autoplay hook, Roblox will auto-focus when you click **Autoplay**.
 
 ---
 
